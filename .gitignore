@@ -1,0 +1,5 @@
+src/data/database.ini
+venv/
+*__pycache__
+.vscode/
+src/data/time_report*
